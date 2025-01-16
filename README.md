@@ -7,7 +7,7 @@ Research activities:
 - Did a master's thesis on using machine learning as an observation operator for data assimilation in rainfall runoff modelling (see [here](https://github.com/olivierbonte/master_thesis))
 
 Teaching activities:
-- Course on Land-Atmosphere Interactions using [CLASS](https://classmodel.github.io/). Course material (made with [quarto](https://quarto.org/)) is hosted [here](https://obonte.quarto.pub/land-atmosphere-interactions-practicals/).
+- Course on Land-Atmosphere Interactions using [CLASS](https://classmodel.github.io/). Course material (made with [quarto](https://quarto.org/)) can be found [here](https://github.com/olivierbonte/Land_Atmosphere_interactions_notes_public) and is hosted as a website [here](https://obonte.quarto.pub/land-atmosphere-interactions-practicals/).
 
 <!--
 **olivierbonte/olivierbonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
